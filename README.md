@@ -1,5 +1,7 @@
 
 # Library Management System – SQL Project
+## Author
+- [@NiteshKumar76](https://github.com/NiteshKumar76)
 ![1000021372](https://github.com/user-attachments/assets/cfd1f41f-0fd1-4928-a282-25045725aa2d)
 
 ## 📘 Introduction
